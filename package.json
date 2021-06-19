@@ -1,5 +1,5 @@
 {
-  "name": "api-react-posts",
+  "name": "api-posts",
   "version": "1.0.0",
   "description": "API with posts",
   "main": "index.js",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "api-react-posts"
+    "url": "api-posts"
   },
   "keywords": [
     "API",
-    "React"
+    "posts"
   ],
   "author": "Daniela Calle Estrada",
   "license": "ISC",
